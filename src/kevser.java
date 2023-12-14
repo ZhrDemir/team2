@@ -3,7 +3,6 @@ public class kevser {
 
         System.out.println("başlıyoruz");
 
-        System.out.println("ikinci deneme");
+        System.out.println("ikinci yorumu ekliyorum");
     }
 }
-git a
